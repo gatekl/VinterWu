@@ -1,0 +1,12 @@
+
+
+#indexcontainer {
+	display: grid;
+	grid-template-areas:
+	"hd hd hd"
+	"nv nv nv"
+	"as1 ma as2"
+	"ft ft ft";
+	grid-template-rows: 200px 100px 1fr;
+	
+}
